@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/image_transformation_1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/image_transformation_simple.dir/includes_CXX.rsp -g -o CMakeFiles\\image_transformation_simple.dir\\main.cpp.obj -c C:\\Users\\itber\\Documents\\learning\\self_tutorials\\learning_opencv\\ch2\\image_transformation_1\\main.cpp",
+  "file": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/image_transformation_1/main.cpp"
+}
+]

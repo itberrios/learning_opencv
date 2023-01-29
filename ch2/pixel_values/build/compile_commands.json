@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/pixel_values/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/pixel_values.dir/includes_CXX.rsp -g -o CMakeFiles\\pixel_values.dir\\main.cpp.obj -c C:\\Users\\itber\\Documents\\learning\\self_tutorials\\learning_opencv\\ch2\\pixel_values\\main.cpp",
+  "file": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/pixel_values/main.cpp"
+}
+]

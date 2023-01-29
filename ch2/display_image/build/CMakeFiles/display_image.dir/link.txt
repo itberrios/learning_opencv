@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\display_image.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\display_image.dir/objects.a @CMakeFiles\display_image.dir\objects1
+C:\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\display_image.dir/objects.a -Wl,--no-whole-archive -o display_image.exe -Wl,--out-implib,libdisplay_image.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\display_image.dir\linkLibs.rsp

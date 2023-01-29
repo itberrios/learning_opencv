@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/display_video_with_trackbar/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/display_video_w_trackbar.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\display_video_w_trackbar.dir\\main.cpp.obj -c C:\\Users\\itber\\Documents\\learning\\self_tutorials\\learning_opencv\\ch2\\display_video_with_trackbar\\main.cpp",
+  "file": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/display_video_with_trackbar/main.cpp"
+}
+]

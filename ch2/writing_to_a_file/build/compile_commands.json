@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/writing_to_a_file/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/writing_to_a_file.dir/includes_CXX.rsp -g -o CMakeFiles\\writing_to_a_file.dir\\main.cpp.obj -c C:\\Users\\itber\\Documents\\learning\\self_tutorials\\learning_opencv\\ch2\\writing_to_a_file\\main.cpp",
+  "file": "C:/Users/itber/Documents/learning/self_tutorials/learning_opencv/ch2/writing_to_a_file/main.cpp"
+}
+]
